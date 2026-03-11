@@ -1,0 +1,19 @@
+# streamlit_app/requirements.txt
+# Dependências para Coaching Sefirótico com Análise Semântica Local
+
+streamlit==1.28.0
+plotly==5.17.0
+pandas==2.1.4
+numpy==1.24.3
+json5==0.9.14
+Pillow==10.1.0
+
+# Análise semântica local (zero alucinação, 100% privacidade)
+sentence-transformers==2.2.2
+torch==2.1.0
+
+# 4. Tentativa de instalação detalhada
+# pip install numpy==1.24.3 -vvv
+
+
+
